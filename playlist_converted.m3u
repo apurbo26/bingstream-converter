@@ -3,37 +3,19 @@
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 6:17:25 PM 26-08-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="LIVE", Sri Lanka vs India - 2nd Test
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787833046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-47ef400628f3f7201942207230577d45|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/JEF%20United%20Chiba%20vs%20Azul%20Claro%20Numazu.jpg" group-title="LIVE", JEF United Chiba vs Azul Claro Numazu - Emperor Cup
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fc7/chunks.m3u8?is_vip=false&token=1787833048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ad036b324b9fd8b9d4f377dbba0a0312|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Daejeon%20Citizen%20vs%20Ulsan%20Hyundai%20FC.jpg" group-title="LIVE", Daejeon Citizen vs Ulsan Hyundai FC - K League 1 [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2a-backup/chunks.m3u8?is_vip=false&token=1787833050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a6c40c39592dc9dc1381201a713fd983|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Daejeon%20Citizen%20vs%20Ulsan%20Hyundai%20FC.jpg" group-title="LIVE", Daejeon Citizen vs Ulsan Hyundai FC - K League 1 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2a/chunks.m3u8?is_vip=false&token=1787833051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-80e8f5efb9f1c74dfb2f093a9173d0e0|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gangwon%20FC%20vs%20Gwangju%20FC.jpg" group-title="LIVE", Gangwon FC vs Gwangju FC - K League 1 [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2b-backup/chunks.m3u8?is_vip=false&token=1787833052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-64048bf14c26e2ae5786d256929b3e9d|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gangwon%20FC%20vs%20Gwangju%20FC.jpg" group-title="LIVE", Gangwon FC vs Gwangju FC - K League 1 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2b/chunks.m3u8?is_vip=false&token=1787833053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9b0fd1f9a489194d7f39713fdd4a457d|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Anyang%20vs%20Incheon%20United.jpg" group-title="LIVE", FC Anyang vs Incheon United - K League 1 [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc29-backup/chunks.m3u8?is_vip=false&token=1787833054-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d4f26324b5734607a9d0fc589cbe6528|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Anyang%20vs%20Incheon%20United.jpg" group-title="LIVE", FC Anyang vs Incheon United - K League 1 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc29/chunks.m3u8?is_vip=false&token=1787833055-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e15de0de0d97708dc30aacd684908c1b|Referer=https://iframe.rumsport8.live/
-
+#last update time: 6:47:22 PM 26-08-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wuhan%20Open%20Quarto%20turno.jpg" group-title="LIVE", Wuhan Open: Quarto turno - World Snooker Tour
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1787833057-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-484712a26311e4546eb546d0f3d585b3|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1787834842-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f7d5e217533e48e17860d32acfdd5e07|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Johor%20Darul%20Takzim%20FC%20vs%20Kelantan%20Red%20Warrior%20FC.jpg" group-title="LIVE", Johor Darul Takzim FC vs Kelantan Red Warrior FC - Super League
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc34/chunks.m3u8?is_vip=false&token=1787833058-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a86c98f0060cf2f3ec4beca66760d059|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Johor%20Darul%20Takzim%20FC%20vs%20Kelantan%20Red%20Warrior%20FC.jpg" group-title="LIVE", Johor Darul Takzim FC vs Kelantan Red Warrior FC - Super League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc34-backup/chunks.m3u8?is_vip=false&token=1787834844-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f5ddf5c89c567243103d7bf3c2e981d0|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%205.jpg" group-title="Cycling", Vuelta a España, Stage 5 - La Vuelta
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787833060-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d93e41adfdec42ed96b53420e7f349f1|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Johor%20Darul%20Takzim%20FC%20vs%20Kelantan%20Red%20Warrior%20FC.jpg" group-title="LIVE", Johor Darul Takzim FC vs Kelantan Red Warrior FC - Super League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc34/chunks.m3u8?is_vip=false&token=1787834846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4e3a2552c6a4c493527ace25adb710be|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%205.jpg" group-title="LIVE", Vuelta a España, Stage 5 - La Vuelta
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787834847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6e58d27f5c774b99d49d111e7a49f545|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rotterdam%20Dockers%20vs%20Amsterdam%20Flames.jpg" group-title="Cricket", Rotterdam Dockers vs Amsterdam Flames - European T20 Premier League
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787834850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5d38eab38afca6b83677bcf2d2e635b6|Referer=https://iframe.rumsport8.live/
 
