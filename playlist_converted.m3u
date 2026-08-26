@@ -3,124 +3,37 @@
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 4:47:25 PM 26-08-2026
+#last update time: 6:17:25 PM 26-08-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="LIVE", Sri Lanka vs India - 2nd Test
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787827646-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4dee2ca92c9c9db702f38f245fae789a|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yokohama%20FC%20vs%20Criacao%20Shinjuku.jpg" group-title="LIVE", Yokohama FC vs Criacao Shinjuku - Emperor Cup
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fae-backup/chunks.m3u8?is_vip=false&token=1787827648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-33b7db719fd36345b83b6a225704a7a3|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Verdy%20vs%20Thespakusatsu%20Gunma.jpg" group-title="LIVE", Tokyo Verdy vs Thespakusatsu Gunma - Emperor Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436faf-backup/chunks.m3u8?is_vip=false&token=1787827650-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-58c2f6f005a8b99e30ab6b54830e2918|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Verdy%20vs%20Thespakusatsu%20Gunma.jpg" group-title="LIVE", Tokyo Verdy vs Thespakusatsu Gunma - Emperor Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436faf/chunks.m3u8?is_vip=false&token=1787827651-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-03db2f8863e5fa039f7229cbdfe4bc36|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20vs%20Okinawa%20SV.jpg" group-title="LIVE", Sanfrecce Hiroshima vs Okinawa SV - Emperor Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fac-backup/chunks.m3u8?is_vip=false&token=1787827652-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-082f439d2b0f0315e411cc5a11312f17|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20vs%20Okinawa%20SV.jpg" group-title="LIVE", Sanfrecce Hiroshima vs Okinawa SV - Emperor Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fac/chunks.m3u8?is_vip=false&token=1787827653-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-852345fc5166e3fcf472072ad6b4ce10|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Machida%20Zelvia%20vs%20Grulla%20Morioka.jpg" group-title="LIVE", Machida Zelvia vs Grulla Morioka - Emperor Cup
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb0-backup/chunks.m3u8?is_vip=false&token=1787827655-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6f00c75b8b539770416311ee99b8b4c9|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cerezo%20Osaka%20vs%20FC%20Gifu.jpg" group-title="LIVE", Cerezo Osaka vs FC Gifu - Emperor Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb1-backup/chunks.m3u8?is_vip=false&token=1787827656-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e5d0c693664215980c826c31c633d1f9|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cerezo%20Osaka%20vs%20FC%20Gifu.jpg" group-title="LIVE", Cerezo Osaka vs FC Gifu - Emperor Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb1/chunks.m3u8?is_vip=false&token=1787827657-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-83459a29175b1a60e0d6c1dafe7ff0d8|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Preston%20Lions%20vs%20South%20Melbourne.jpg" group-title="LIVE", Preston Lions vs South Melbourne - Australia Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7e0d3b250dd16277563e01-backup/chunks.m3u8?is_vip=false&token=1787827658-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-53abc40723bbfabccdf8b3d5ead70e48|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Preston%20Lions%20vs%20South%20Melbourne.jpg" group-title="LIVE", Preston Lions vs South Melbourne - Australia Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7e0d3b250dd16277563e01/chunks.m3u8?is_vip=false&token=1787827659-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3337dcbf5824371ccec7cb18f552f2ef|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vegalta%20Sendai%20vs%20Tochigi%20City.jpg" group-title="LIVE", Vegalta Sendai vs Tochigi City - Emperor Cup
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fc1-backup/chunks.m3u8?is_vip=false&token=1787827660-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-36f496da2ddb1aea1ad96b3185e12cba|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Consadole%20Sapporo%20vs%20Ventforet%20Kofu.jpg" group-title="LIVE", Consadole Sapporo vs Ventforet Kofu - Emperor Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fcb-backup/chunks.m3u8?is_vip=false&token=1787827662-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2f4741d304b95c5423c3fa4fa0bc7fce|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Consadole%20Sapporo%20vs%20Ventforet%20Kofu.jpg" group-title="LIVE", Consadole Sapporo vs Ventforet Kofu - Emperor Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fcb/chunks.m3u8?is_vip=false&token=1787827662-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a5b810ba6c0339211f7aef6385221ee3|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/V-varen%20Nagasaki%20vs%20Ehime%20FC.jpg" group-title="LIVE", V-varen Nagasaki vs Ehime FC - Emperor Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb6-backup/chunks.m3u8?is_vip=false&token=1787827664-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-34fea555a6dad7764fe4572c4f84d094|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/V-varen%20Nagasaki%20vs%20Ehime%20FC.jpg" group-title="LIVE", V-varen Nagasaki vs Ehime FC - Emperor Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb6/chunks.m3u8?is_vip=false&token=1787827665-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-afdb347d6abd11bdb772da6fefb9be71|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Albirex%20Niigata%20vs%20Kagoshima%20United.jpg" group-title="LIVE", Albirex Niigata vs Kagoshima United - Emperor Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb8-backup/chunks.m3u8?is_vip=false&token=1787827666-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3e3cd58d22a9294f7056d2a413b761ea|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Albirex%20Niigata%20vs%20Kagoshima%20United.jpg" group-title="LIVE", Albirex Niigata vs Kagoshima United - Emperor Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb8/chunks.m3u8?is_vip=false&token=1787827667-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f38f72560da93faaac30fba46eb99c5c|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787833046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-47ef400628f3f7201942207230577d45|Referer=https://iframe.rumsport8.live/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/JEF%20United%20Chiba%20vs%20Azul%20Claro%20Numazu.jpg" group-title="LIVE", JEF United Chiba vs Azul Claro Numazu - Emperor Cup
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fc7/chunks.m3u8?is_vip=false&token=1787827668-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d3690f804172e54e54c08fc4a439c1f2|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20vs%20Parceiro%20Nagano.jpg" group-title="LIVE", FC Tokyo vs Parceiro Nagano - Emperor Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb5-backup/chunks.m3u8?is_vip=false&token=1787827670-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ac4d67651e28fbda73c13738d8ea9576|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20vs%20Parceiro%20Nagano.jpg" group-title="LIVE", FC Tokyo vs Parceiro Nagano - Emperor Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb5/chunks.m3u8?is_vip=false&token=1787827670-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-70b7ee6b7842b95ff28013e57bb6bd44|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gamba%20Osaka%20vs%20Biwako%20Shiga.jpg" group-title="LIVE", Gamba Osaka vs Biwako Shiga - Emperor Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fbe-backup/chunks.m3u8?is_vip=false&token=1787827672-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-beba68094d40099fb93bfb6c220e3e60|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gamba%20Osaka%20vs%20Biwako%20Shiga.jpg" group-title="LIVE", Gamba Osaka vs Biwako Shiga - Emperor Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fbe/chunks.m3u8?is_vip=false&token=1787827673-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8d6ca018d8708e1c97d0f6fc6cfbc72d|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashima%20vs%20Suzuka%20Unlimited.jpg" group-title="LIVE", Kashima vs Suzuka Unlimited - Emperor Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb4-backup/chunks.m3u8?is_vip=false&token=1787827674-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d1a966f3fbff31d412189f45cd622609|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashima%20vs%20Suzuka%20Unlimited.jpg" group-title="LIVE", Kashima vs Suzuka Unlimited - Emperor Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb4/chunks.m3u8?is_vip=false&token=1787827675-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9cab6c4b466a93eddcae0b5225f0024e|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kawasaki%20Frontale%20vs%20Tochigi%20SC.jpg" group-title="LIVE", Kawasaki Frontale vs Tochigi SC - Emperor Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fbf-backup/chunks.m3u8?is_vip=false&token=1787827676-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c23801b0f8127d690b5788b6e2664790|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kawasaki%20Frontale%20vs%20Tochigi%20SC.jpg" group-title="LIVE", Kawasaki Frontale vs Tochigi SC - Emperor Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fbf/chunks.m3u8?is_vip=false&token=1787827677-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f9677d7ef42c202436ed9d5ffd76cf31|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kyoto%20Sanga%20vs%20Maruyasu%20Okazaki.jpg" group-title="LIVE", Kyoto Sanga vs Maruyasu Okazaki - Emperor Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fc3-backup/chunks.m3u8?is_vip=false&token=1787827679-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ce4f6480e2a4829f1af2983271d1d9af|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kyoto%20Sanga%20vs%20Maruyasu%20Okazaki.jpg" group-title="LIVE", Kyoto Sanga vs Maruyasu Okazaki - Emperor Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fc3/chunks.m3u8?is_vip=false&token=1787827679-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-27aa9d2751e5fc84350f2df3697ca6d1|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mito%20Hollyhock%20vs%20Kyoto%20Sangyo%20University.jpg" group-title="LIVE", Mito Hollyhock vs Kyoto Sangyo University - Emperor Cup
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fba-backup/chunks.m3u8?is_vip=false&token=1787827681-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f9b46f0e8da41aab1cd2663e7c1be01a|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fagiano%20Okayama%20vs%20Beluga%20Rosso%20Iwami.jpg" group-title="LIVE", Fagiano Okayama vs Beluga Rosso Iwami - Emperor Cup
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fc8/chunks.m3u8?is_vip=false&token=1787827683-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4328d401301b8054cc61d4dfcd567d47|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20vs%20Yamanashi%20Gakuin.jpg" group-title="LIVE", Urawa vs Yamanashi Gakuin - Emperor Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb9-backup/chunks.m3u8?is_vip=false&token=1787827684-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f1729ae8677dab571dabd96f0a5ea028|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20vs%20Yamanashi%20Gakuin.jpg" group-title="LIVE", Urawa vs Yamanashi Gakuin - Emperor Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb9/chunks.m3u8?is_vip=false&token=1787827685-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f86eb28bf0b0d3a0cecd0c7cdeaff152|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fc7/chunks.m3u8?is_vip=false&token=1787833048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ad036b324b9fd8b9d4f377dbba0a0312|Referer=https://iframe.rumsport8.live/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Daejeon%20Citizen%20vs%20Ulsan%20Hyundai%20FC.jpg" group-title="LIVE", Daejeon Citizen vs Ulsan Hyundai FC - K League 1 [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2a-backup/chunks.m3u8?is_vip=false&token=1787827687-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b1866ffb456ef2d1e17384745ffe4b87|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2a-backup/chunks.m3u8?is_vip=false&token=1787833050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a6c40c39592dc9dc1381201a713fd983|Referer=https://iframe.rumsport8.live/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Daejeon%20Citizen%20vs%20Ulsan%20Hyundai%20FC.jpg" group-title="LIVE", Daejeon Citizen vs Ulsan Hyundai FC - K League 1 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2a/chunks.m3u8?is_vip=false&token=1787827688-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d52e644564fd1b41de92f92831567d1a|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2a/chunks.m3u8?is_vip=false&token=1787833051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-80e8f5efb9f1c74dfb2f093a9173d0e0|Referer=https://iframe.rumsport8.live/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gangwon%20FC%20vs%20Gwangju%20FC.jpg" group-title="LIVE", Gangwon FC vs Gwangju FC - K League 1 [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2b-backup/chunks.m3u8?is_vip=false&token=1787827689-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ba8f8315bffc250b9ebca7d8bf1e9fca|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2b-backup/chunks.m3u8?is_vip=false&token=1787833052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-64048bf14c26e2ae5786d256929b3e9d|Referer=https://iframe.rumsport8.live/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gangwon%20FC%20vs%20Gwangju%20FC.jpg" group-title="LIVE", Gangwon FC vs Gwangju FC - K League 1 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2b/chunks.m3u8?is_vip=false&token=1787827690-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f833e9bab756c2bc69b02d83d034a093|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2b/chunks.m3u8?is_vip=false&token=1787833053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9b0fd1f9a489194d7f39713fdd4a457d|Referer=https://iframe.rumsport8.live/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Anyang%20vs%20Incheon%20United.jpg" group-title="LIVE", FC Anyang vs Incheon United - K League 1 [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc29-backup/chunks.m3u8?is_vip=false&token=1787827691-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-55631d1fc90a9f0c6ef1a34673078ea7|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc29-backup/chunks.m3u8?is_vip=false&token=1787833054-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d4f26324b5734607a9d0fc589cbe6528|Referer=https://iframe.rumsport8.live/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Anyang%20vs%20Incheon%20United.jpg" group-title="LIVE", FC Anyang vs Incheon United - K League 1 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc29/chunks.m3u8?is_vip=false&token=1787827692-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7a4cc6df55b1240d850f143886841227|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc29/chunks.m3u8?is_vip=false&token=1787833055-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e15de0de0d97708dc30aacd684908c1b|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2027.jpg" group-title="LIVE", Players Championship 27 - Players Championship
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1787827693-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a055cfe78cf789b171e1ce55c312430a|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wuhan%20Open%20Quarto%20turno.jpg" group-title="LIVE", Wuhan Open: Quarto turno - World Snooker Tour
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1787833057-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-484712a26311e4546eb546d0f3d585b3|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Johor%20Darul%20Takzim%20FC%20vs%20Kelantan%20Red%20Warrior%20FC.jpg" group-title="LIVE", Johor Darul Takzim FC vs Kelantan Red Warrior FC - Super League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc34/chunks.m3u8?is_vip=false&token=1787833058-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a86c98f0060cf2f3ec4beca66760d059|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%205.jpg" group-title="Cycling", Vuelta a España, Stage 5 - La Vuelta
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787833060-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d93e41adfdec42ed96b53420e7f349f1|Referer=https://iframe.rumsport8.live/
 
