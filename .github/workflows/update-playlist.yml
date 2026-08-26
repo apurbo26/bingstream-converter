@@ -1,0 +1,32 @@
+name: Update M3U Playlist
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # প্রতি ৩ ঘণ্টা পর পর অটোমেটিক আপডেট হবে (আপনি চাইলে সময় বদলাতে পারেন)
+  workflow_dispatch: # হাত দিয়ে ম্যানুয়ালি রান করানোর অপশন
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      - name: Run convert script
+        run: php convert.php
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add playlist_converted.m3u
+          git commit -m "Auto-update converted M3U playlist" || exit 0
+          git push
+          
+    # - name: Run test suite
+    #   run: composer run-script test
