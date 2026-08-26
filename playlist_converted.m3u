@@ -3,19 +3,31 @@
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 6:47:22 PM 26-08-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wuhan%20Open%20Quarto%20turno.jpg" group-title="LIVE", Wuhan Open: Quarto turno - World Snooker Tour
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1787834842-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f7d5e217533e48e17860d32acfdd5e07|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Johor%20Darul%20Takzim%20FC%20vs%20Kelantan%20Red%20Warrior%20FC.jpg" group-title="LIVE", Johor Darul Takzim FC vs Kelantan Red Warrior FC - Super League [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc34-backup/chunks.m3u8?is_vip=false&token=1787834844-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f5ddf5c89c567243103d7bf3c2e981d0|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Johor%20Darul%20Takzim%20FC%20vs%20Kelantan%20Red%20Warrior%20FC.jpg" group-title="LIVE", Johor Darul Takzim FC vs Kelantan Red Warrior FC - Super League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc34/chunks.m3u8?is_vip=false&token=1787834846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4e3a2552c6a4c493527ace25adb710be|Referer=https://iframe.rumsport8.live/
+#last update time: 8:47:28 PM 26-08-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2027.jpg" group-title="LIVE", Players Championship 27 - Players Championship
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1787842049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-03bf0e9e4031306f7a9a55a9aeb34308|Referer=https://iframe.rumsport8.live/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%205.jpg" group-title="LIVE", Vuelta a España, Stage 5 - La Vuelta
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787834847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6e58d27f5c774b99d49d111e7a49f545|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787842050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-908c1287d5ef8f73ad1de8e50e1f49d7|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rotterdam%20Dockers%20vs%20Amsterdam%20Flames.jpg" group-title="Cricket", Rotterdam Dockers vs Amsterdam Flames - European T20 Premier League
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787834850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5d38eab38afca6b83677bcf2d2e635b6|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kuala%20Lumpur%20FA%20vs%20Kuching%20FA.jpg" group-title="LIVE", Kuala Lumpur FA vs Kuching FA - Super League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc35-backup/chunks.m3u8?is_vip=false&token=1787842052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7e86ec231c65aa98508ea246cc2e785a|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kuala%20Lumpur%20FA%20vs%20Kuching%20FA.jpg" group-title="LIVE", Kuala Lumpur FA vs Kuching FA - Super League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc35/chunks.m3u8?is_vip=false&token=1787842053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7f196d31ab9e46be1982c3bd5371fb77|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vietnam%20vs%20Thailand.jpg" group-title="LIVE", Vietnam vs Thailand - ASEAN Championship [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fcc-backup/chunks.m3u8?is_vip=false&token=1787842054-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b73c5dbc377151c74cd43a272bb1fe26|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vietnam%20vs%20Thailand.jpg" group-title="LIVE", Vietnam vs Thailand - ASEAN Championship [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fcc/chunks.m3u8?is_vip=false&token=1787842055-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-95a779ca5f7a9767f5d1c8f3d5350bd8|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vietnam%20vs%20Thailand.jpg" group-title="LIVE", Vietnam vs Thailand - ASEAN Championship [Server 3]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1-6a861269b29a32ad12436fcc/720p/chunks.m3u8?is_vip=false&token=1787842056-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f1cccb17ffc1c5138565bc5e3f2abe3e|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rotterdam%20Dockers%20vs%20Amsterdam%20Flames.jpg" group-title="LIVE", Rotterdam Dockers vs Amsterdam Flames - European T20 Premier League
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787842058-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6295dfab5ad6287fd7949d66dc210873|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787842059-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c84f49855f230ba616f1edffc9d55e41|Referer=https://iframe.rumsport8.live/
 
