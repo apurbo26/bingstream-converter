@@ -3,13 +3,70 @@
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 7:17:22 PM 27-08-2026
+#last update time: 10:47:26 PM 27-08-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 2nd Test
-https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1787923043-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-37ad2c491c5b1306628bb6ebdfaa8322|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1787935648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-22f3bb0c124ffd9dfda5fa0cf93eb396|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/World%20Snooker%20Tour.jpg" group-title="LIVE", World Snooker Tour - World Snooker Tour
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1787923045-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bfd83dd33a86b2e5efdba7f75c4f3f3d|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787935649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5ba141a4199c04b1976e9a32fb6913a3|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%206.jpg" group-title="LIVE", Vuelta a España, Stage 6 - La Vuelta
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787923046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7a2808a6980fc795caa3f7b126e07c4d|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/KuPS%20vs%20Shamrock%20Rovers.jpg" group-title="LIVE", KuPS vs Shamrock Rovers - UEFA Europa Conference League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24c0d-backup/chunks.m3u8?is_vip=false&token=1787935650-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-911dbbb9d7d09d6329276622b88d6d83|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/KuPS%20vs%20Shamrock%20Rovers.jpg" group-title="LIVE", KuPS vs Shamrock Rovers - UEFA Europa Conference League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24c0d/chunks.m3u8?is_vip=false&token=1787935651-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cd57a74a1437899ceb0b1f73b5602458|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Falu%20BS%20vs%20IF%20Brommapojkarna.jpg" group-title="LIVE", Falu BS vs IF Brommapojkarna - Svenska Cupen [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edb0-backup/chunks.m3u8?is_vip=false&token=1787935653-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-51fae89c4886b70c316c460cad979dd5|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Falu%20BS%20vs%20IF%20Brommapojkarna.jpg" group-title="LIVE", Falu BS vs IF Brommapojkarna - Svenska Cupen [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edb0/chunks.m3u8?is_vip=false&token=1787935654-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3e33fd434d2f7345da543995de23d45c|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FK%20Jablonec%20vs%20Rangers.jpg" group-title="LIVE", FK Jablonec vs Rangers - UEFA Europa Conference League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7fdd656b72017e6296b6c7-backup/chunks.m3u8?is_vip=false&token=1787935655-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b02d1ab0b7df76b4632d7539586cf13f|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FK%20Jablonec%20vs%20Rangers.jpg" group-title="LIVE", FK Jablonec vs Rangers - UEFA Europa Conference League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7fdd656b72017e6296b6c7/chunks.m3u8?is_vip=false&token=1787935656-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7d0bb430e48a1711a189b21944b1384e|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Maccabi%20Tel%20Aviv%20vs%20FC%20Lugano.jpg" group-title="LIVE", Maccabi Tel Aviv vs FC Lugano - UEFA Europa Conference League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24bf7-backup/chunks.m3u8?is_vip=false&token=1787935657-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b19a0d2c11d1388a64b8baace85ccd25|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Maccabi%20Tel%20Aviv%20vs%20FC%20Lugano.jpg" group-title="LIVE", Maccabi Tel Aviv vs FC Lugano - UEFA Europa Conference League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24bf7/chunks.m3u8?is_vip=false&token=1787935658-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fc9f4f46ca2d7a588cf3e0e8ffec1ebc|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Qarabag%20vs%20Twente.jpg" group-title="LIVE", Qarabag vs Twente - UEFA Europa Conference League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24bf9/chunks.m3u8?is_vip=false&token=1787935659-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ad6c91398197ac26c6e7d960b983f0ec|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Iberia%201999%20vs%20Jagiellonia.jpg" group-title="LIVE", FC Iberia 1999 vs Jagiellonia - UEFA Europa League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24bf3/chunks.m3u8?is_vip=false&token=1787935661-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-55c4a9510908ace5e6a273bc26ab777f|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Husqvarna%20vs%20Gais.jpg" group-title="LIVE", Husqvarna vs Gais - Svenska Cupen
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edae-backup/chunks.m3u8?is_vip=false&token=1787935662-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2fef564915558e9b212cdb0b2e67a227|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men's%20Elite%20Cross-Country%20Short%20Track.jpg" group-title="LIVE", Men's Elite Cross-Country Short Track - UCI Mountain Bike World Championships
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1787935664-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a6a38839a30f2f24e29a21de8224f167|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lindo%20FF%20vs%20Malmo%20FF.jpg" group-title="LIVE", Lindo FF vs Malmo FF - Svenska Cupen
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edad-backup/chunks.m3u8?is_vip=false&token=1787935665-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4229bdda3d61c6f3cd710cd64c5b8918|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monaco%20vs%20Gornik%20Zabrze.jpg" group-title="LIVE", Monaco vs Gornik Zabrze - UEFA Europa Conference League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24c08-backup/chunks.m3u8?is_vip=false&token=1787935667-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7cf2fb1e833457ace234f7f17500f005|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monaco%20vs%20Gornik%20Zabrze.jpg" group-title="LIVE", Monaco vs Gornik Zabrze - UEFA Europa Conference League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24c08/chunks.m3u8?is_vip=false&token=1787935668-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b1a1d06a6dd0a8436950a36175a0f1ae|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SC%20Freiburg%20vs%20Motherwell.jpg" group-title="LIVE", SC Freiburg vs Motherwell - UEFA Europa Conference League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24c09-backup/chunks.m3u8?is_vip=false&token=1787935670-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aa5408b0ae1cba93fea2e02a9995bbd0|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SC%20Freiburg%20vs%20Motherwell.jpg" group-title="LIVE", SC Freiburg vs Motherwell - UEFA Europa Conference League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24c09/chunks.m3u8?is_vip=false&token=1787935671-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d66cd0c01ef4955015dd30800c06c491|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20Championship%2C%20Day%201.jpg" group-title="LIVE", Tour Championship, Day 1 - PGA Tour
+https://livecdn-tc-iptv.rumsport10.live/live_abr/157/720p/chunks.m3u8?is_vip=false&token=1787935672-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6b508a373e6b0d168fde3edc96c2b66f|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saratoga%20Live.jpg" group-title="LIVE", Saratoga Live - Horse Racing
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1787935674-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f56b6fd01a089b786794f665c9ad7cb1|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colorado%20Rockies%20vs%20Washington%20Nationals.jpg" group-title="Baseball", Colorado Rockies vs Washington Nationals - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1787935676-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1de02f1b18f76d705577b2fdcce81c24|Referer=https://iframe.rumsport8.live/
 
