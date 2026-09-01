@@ -3,4 +3,31 @@
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 2:02:26 PM 01-09-2026
+#last update time: 7:32:30 PM 01-09-2026
+#EXTINF:-1 tvg-id="55734" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20W%20vs%20Ireland%20W.jpg" group-title="LIVE", England W vs Ireland W - 1st ODI
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1788355951-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7d51b5765904e6229384143f7dfd8620|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="59678" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secondo%20turno.jpg" group-title="LIVE", Secondo turno - World Snooker Tour
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1788355952-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-62fd4b38ab466fc796224f3d56c4c2f5|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="51139" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Korona%20Kielce%20II%20vs%20Radomiak%20Radom.jpg" group-title="LIVE", Korona Kielce II vs Radomiak Radom - Cup [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7eee5170a52b8b4e55bc9c-backup/chunks.m3u8?is_vip=false&token=1788355953-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-320954ab4570a24a20d08e21202c43cb|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="51139" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Korona%20Kielce%20II%20vs%20Radomiak%20Radom.jpg" group-title="LIVE", Korona Kielce II vs Radomiak Radom - Cup [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7eee5170a52b8b4e55bc9c/chunks.m3u8?is_vip=false&token=1788355954-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-849d68e5c1b0e409ad64f3dcb58b81db|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="51870" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%2010.jpg" group-title="LIVE", Vuelta a España, Stage 10 - La Vuelta
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1788355956-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-38b98e5542e3c3cf446f69e2443745f4|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="51140" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Band%C4%B1rmaspor%20vs%20Antalyaspor.jpg" group-title="LIVE", Bandırmaspor vs Antalyaspor - 1. Lig [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a180-fhd/chunks.m3u8?is_vip=false&token=1788355957-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-25e7ca2e01e4761acf3f30b3d4130ca3|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="51140" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Band%C4%B1rmaspor%20vs%20Antalyaspor.jpg" group-title="LIVE", Bandırmaspor vs Antalyaspor - 1. Lig [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a180-backup/chunks.m3u8?is_vip=false&token=1788355957-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2d183c776b71c097dbb3e82b5aa6ffeb|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="51140" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Band%C4%B1rmaspor%20vs%20Antalyaspor.jpg" group-title="LIVE", Bandırmaspor vs Antalyaspor - 1. Lig [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a180/chunks.m3u8?is_vip=false&token=1788355958-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-53ec020ccaca4413e3976da19b18cbf5|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="55733" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cosmics%20vs%20Dockers.jpg" group-title="LIVE", Cosmics vs Dockers - ETPL
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1788355959-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-963f428ef3447743a4aeb4f08084237f|Referer=https://iframe.rumsport8.live/
+
