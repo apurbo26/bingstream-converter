@@ -3,79 +3,46 @@
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 12:02:26 AM 04-09-2026
-#EXTINF:-1 tvg-id="61697" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court%206.jpg" group-title="LIVE", Court 6 - US Open
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1788544947-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fb3a5e8a23e34e413455d04aec443a81|Referer=https://iframe.rumsport8.live/
+#last update time: 4:47:24 AM 04-09-2026
+#EXTINF:-1 tvg-id="61693" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788562045-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3cec6fbca76a1c1e25e1b194792d9521|Referer=https://iframe.rumsport8.live/
 
 #EXTINF:-1 tvg-id="61696" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court%205.jpg" group-title="LIVE", Court 5 - US Open
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=false&token=1788544949-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-16d75d6cc8083072d983f1ca6a2dd663|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=false&token=1788562047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9cdcff544f00103a7a24da12919a75a5|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="61697" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court%206.jpg" group-title="LIVE", Court 6 - US Open
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1788562048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e6b6918950c36b95b26da97f57b6982a|Referer=https://iframe.rumsport8.live/
 
 #EXTINF:-1 tvg-id="61698" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court%207.jpg" group-title="LIVE", Court 7 - US Open
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143075/720p/chunks.m3u8?is_vip=false&token=1788544951-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-379aed6cf03572d101c82122cc4e2a95|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="61707" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Louis%20Armstrong%20Stadium.jpg" group-title="LIVE", Louis Armstrong Stadium - US Open
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510509/720p/chunks.m3u8?is_vip=false&token=1788544952-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6e250c278f37226136c191c983a1c653|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="61693" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788544954-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cd349b62c751f5225e6d30e983cd1d6c|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="61701" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court%2012.jpg" group-title="LIVE", Court 12 - US Open
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143076/720p/chunks.m3u8?is_vip=false&token=1788544955-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fe1fec276b9c6c68f129af768858fae4|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143075/720p/chunks.m3u8?is_vip=false&token=1788562049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e58a9b81279e9de0f1baa1c37a09e123|Referer=https://iframe.rumsport8.live/
 
 #EXTINF:-1 tvg-id="61705" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Grandstand.jpg" group-title="LIVE", Grandstand - US Open
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1788544957-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0510d579b503cf53d9d1a47cd4fd2d80|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1788562050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-483844746384f9ae2d9f286985c03e7f|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="61707" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Louis%20Armstrong%20Stadium.jpg" group-title="LIVE", Louis Armstrong Stadium - US Open
+https://livecdn-tc-iptv.rumsport10.live/live_abr/510509/720p/chunks.m3u8?is_vip=false&token=1788562051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fbd67a1bb2c8a1b10573e5693d552ee7|Referer=https://iframe.rumsport8.live/
 
 #EXTINF:-1 tvg-id="61706" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arthur%20Ashe%20Stadium.jpg" group-title="LIVE", Arthur Ashe Stadium - US Open
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788544957-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3fce00d71f146e4c079fb8587d528453|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788562052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0fc3754663ece754e8f5f0175b608a0d|Referer=https://iframe.rumsport8.live/
 
 #EXTINF:-1 tvg-id="61708" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court%2017.jpg" group-title="LIVE", Court 17 - US Open
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510528/720p/chunks.m3u8?is_vip=false&token=1788544959-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7669dc8e44bb3ed4254eb46fbe5f2314|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1428/720p/chunks.m3u8?is_vip=false&token=1788562054-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a63bebaf9621873200ca64128ad61a17|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="45596" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/NEOM%20vs%20Al%20Khaleej%20Saihat.jpg" group-title="LIVE", NEOM vs Al Khaleej Saihat - Pro League
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a79ee81b630e987f3762172/chunks.m3u8?is_vip=false&token=1788544960-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fe9df62fd8c8dd8e4737046b24beeae9|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="52789" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20Recoleta%20vs%20Cerro%20Porteno.jpg" group-title="LIVE", Deportivo Recoleta vs Cerro Porteno - Division Profesional - Clausura [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9333520f997065ce299bd0-backup/chunks.m3u8?is_vip=false&token=1788562055-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9a9ce25fba2ebad019abc017bb4d1aeb|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="52367" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Francisco%20Giants%20vs%20Pittsburgh%20Pirates.jpg" group-title="LIVE", San Francisco Giants vs Pittsburgh Pirates - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1788544962-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2e5f0116f1bc0e9db9dee4e6771f9631|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="52789" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20Recoleta%20vs%20Cerro%20Porteno.jpg" group-title="LIVE", Deportivo Recoleta vs Cerro Porteno - Division Profesional - Clausura [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9333520f997065ce299bd0/chunks.m3u8?is_vip=false&token=1788562056-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-48165c310360047310de047cfaa18dd2|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="52314" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bodrum%20FK%20vs%20Esenler%20Erokspor.jpg" group-title="LIVE", Bodrum FK vs Esenler Erokspor - 1. Lig [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a17f-fhd/chunks.m3u8?is_vip=false&token=1788544963-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8b54c6eb55fdd181eb8cf087205c61bf|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="58209" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SOL%20DE%20America%20vs%20General%20Caballero.jpg" group-title="LIVE", SOL DE America vs General Caballero - Division Intermedia
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9333520f997065ce299bd1/chunks.m3u8?is_vip=false&token=1788562058-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-79923562bdd04adafbcc4fffa690b8aa|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="52314" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bodrum%20FK%20vs%20Esenler%20Erokspor.jpg" group-title="LIVE", Bodrum FK vs Esenler Erokspor - 1. Lig [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a17f-backup/chunks.m3u8?is_vip=false&token=1788544964-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bc5c90e7bca8ed9d3d732f1694938b18|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="55741" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nevis%20Patriots%20vs%20Kings.jpg" group-title="LIVE", Nevis Patriots vs Kings - CPL
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1788562059-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bdb0228bc387f28f3f4cbaffc3463975|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="52314" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bodrum%20FK%20vs%20Esenler%20Erokspor.jpg" group-title="LIVE", Bodrum FK vs Esenler Erokspor - 1. Lig [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a17f/chunks.m3u8?is_vip=false&token=1788544965-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ea1ab5ea29f73390ed71115df94cdf51|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="53758" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee%20Brewers%20vs%20Chicago%20Cubs.jpg" group-title="Baseball", Milwaukee Brewers vs Chicago Cubs - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1788562063-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-210380b4c72647dd21d97d786dc6b921|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="53811" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saratoga%20Live.jpg" group-title="LIVE", Saratoga Live - Horse Racing
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788544966-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-78b962790611cd426b26ffced3f885bb|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="52315" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bursaspor%20vs%20%C4%B0stanbulspor.jpg" group-title="LIVE", Bursaspor vs İstanbulspor - 1. Lig [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a17d-fhd/chunks.m3u8?is_vip=false&token=1788544969-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c9d96d1237d7010d5ad959eca7ebb693|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="52315" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bursaspor%20vs%20%C4%B0stanbulspor.jpg" group-title="LIVE", Bursaspor vs İstanbulspor - 1. Lig [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a17d-backup/chunks.m3u8?is_vip=false&token=1788544969-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0bf117527887b1d3173ba38c4cfa631e|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="52315" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bursaspor%20vs%20%C4%B0stanbulspor.jpg" group-title="LIVE", Bursaspor vs İstanbulspor - 1. Lig [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a17d/chunks.m3u8?is_vip=false&token=1788544970-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-86bd5fc3f1cc8700bdafb104767b18c8|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="53756" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Blue%20Jays%20vs%20Cleveland%20Guardians.jpg" group-title="LIVE", Toronto Blue Jays vs Cleveland Guardians - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1788544971-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ffc5a29ce1a1fc7937519900066ef563|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="60224" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bahrain%20U20%20vs%20Jordan%20U20.jpg" group-title="LIVE", Bahrain U20 vs Jordan U20 - AFC U20 Asian Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991ae-backup/chunks.m3u8?is_vip=false&token=1788544973-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-348e6c7ca1651e650010e602ac362218|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="60224" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bahrain%20U20%20vs%20Jordan%20U20.jpg" group-title="LIVE", Bahrain U20 vs Jordan U20 - AFC U20 Asian Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991ae/chunks.m3u8?is_vip=false&token=1788544973-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2953e3b536744cd5c0b2f33d99aa9139|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="61695" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/British%20Open%20Quarto%20turno.jpg" group-title="LIVE", British Open: Quarto turno - World Snooker Tour
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1788544975-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-00ac8bc4f9f33ddd02521a80dfba56fb|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="45597" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Diriyah%20vs%20Al-Qadisiyah%20FC.jpg" group-title="LIVE", Al Diriyah vs Al-Qadisiyah FC - Pro League
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a79ee81b630e987f3762175/chunks.m3u8?is_vip=false&token=1788544978-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b1ded9b82203db3863ed85dd9d7f0eae|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="53757" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Houston%20Astros.jpg" group-title="LIVE", Chicago White Sox vs Houston Astros - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1788544979-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7cb4b852e70fe2996e71b5899666b565|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="51739" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Novara%20vs%20Livorno.jpg" group-title="LIVE", Novara vs Livorno - Coppa Italia Serie C
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f5ae60bd04a161f1b43ca/chunks.m3u8?is_vip=false&token=1788544983-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4707085ba53feb87a719ec39701b860b|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="53759" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Boston%20Red%20Sox%20vs%20Baltimore%20Orioles.jpg" group-title="Baseball", Boston Red Sox vs Baltimore Orioles - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1788562063-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-baf466ba33413a1a545590e38df4a24d|Referer=https://iframe.rumsport8.live/
 
