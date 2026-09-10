@@ -3,19 +3,58 @@
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 7:02:29 PM 10-09-2026
+#last update time: 11:47:27 PM 10-09-2026
+#EXTINF:-1 tvg-id="57065" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fenerbah%C3%A7e%20vs%20AS%20Roma.jpg" group-title="LIVE", Fenerbahçe vs AS Roma - UEFA Champions League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2daf2fa6c299ee12a0a-hd/chunks.m3u8?is_vip=false&token=1789148848-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d00654f662279a665d081203f42ed836|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="57065" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fenerbah%C3%A7e%20vs%20AS%20Roma.jpg" group-title="LIVE", Fenerbahçe vs AS Roma - UEFA Champions League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2daf2fa6c299ee12a0a-backup/chunks.m3u8?is_vip=false&token=1789148849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-783557fd03fb70e2c8807f08b6b37df1|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="57065" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fenerbah%C3%A7e%20vs%20AS%20Roma.jpg" group-title="LIVE", Fenerbahçe vs AS Roma - UEFA Champions League [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2daf2fa6c299ee12a0a/chunks.m3u8?is_vip=false&token=1789148849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a5afe2e621c9de248a7e64e4f2c4d1b7|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="56998" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PSV%20Eindhoven%20vs%20Shakhtar%20Donetsk.jpg" group-title="LIVE", PSV Eindhoven vs Shakhtar Donetsk - UEFA Champions League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2daf2fa6c299ee129d8-hd/chunks.m3u8?is_vip=false&token=1789148850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-49e4e4c1a9a49e731c497fedcfff1b16|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="56998" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PSV%20Eindhoven%20vs%20Shakhtar%20Donetsk.jpg" group-title="LIVE", PSV Eindhoven vs Shakhtar Donetsk - UEFA Champions League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2daf2fa6c299ee129d8-fhd/chunks.m3u8?is_vip=false&token=1789148851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f2b7524eff3c05c828132e6691b97e1|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="56998" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PSV%20Eindhoven%20vs%20Shakhtar%20Donetsk.jpg" group-title="LIVE", PSV Eindhoven vs Shakhtar Donetsk - UEFA Champions League [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2daf2fa6c299ee129d8-backup/chunks.m3u8?is_vip=false&token=1789148852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2115796d88ab77d362f80efc3c29e24b|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="56998" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PSV%20Eindhoven%20vs%20Shakhtar%20Donetsk.jpg" group-title="LIVE", PSV Eindhoven vs Shakhtar Donetsk - UEFA Champions League [Server 4]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2daf2fa6c299ee129d8/chunks.m3u8?is_vip=false&token=1789148852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b58dda93cf08238058b1cc3668b098de|Referer=https://iframe.rumsport8.live/
+
 #EXTINF:-1 tvg-id="55726" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 3rd Test
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789131750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ab9d05733463b5d001c66ae524c8c682|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789148854-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9e8bf3b29bc1918b9108b358c18b119d|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="55781" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%2018.jpg" group-title="LIVE", Vuelta a España, Stage 18 - La Vuelta
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1789131758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cb79a1857d7875ad2aafafa6577bb9f5|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="56839" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Ain%20vs%20Al-Wasl%20FC.jpg" group-title="LIVE", Al Ain vs Al-Wasl FC - Pro League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fcb66eee29798bad1897f-backup/chunks.m3u8?is_vip=false&token=1789148855-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4f6edc527eb35b3e2ff36ede232aedc8|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="60261" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Como%20U19%20vs%20RB%20Leipzig%20U19.jpg" group-title="LIVE", Como U19 vs RB Leipzig U19 - UEFA Youth League
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a989569a903b20f18349ad7/chunks.m3u8?is_vip=false&token=1789131767-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-38e3ee4918565166c20b0a1b7fc11c8f|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="56839" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Ain%20vs%20Al-Wasl%20FC.jpg" group-title="LIVE", Al Ain vs Al-Wasl FC - Pro League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fcb66eee29798bad1897f/chunks.m3u8?is_vip=false&token=1789148856-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e09997dd44c345f865005e2b7e5c9443|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="60263" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20U19%20vs%20Sabah%20U19.jpg" group-title="LIVE", Manchester United U19 vs Sabah U19 - UEFA Youth League
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a989569a903b20f18349ada/chunks.m3u8?is_vip=false&token=1789131768-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aee0c0623977d290eda4572f988749d9|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="55773" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20Atlanta%20Braves.jpg" group-title="LIVE", Tampa Bay Rays vs Atlanta Braves - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1789148858-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-76ba6347cdc412b0ef3c1ef42a664cc6|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="65177" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/English%20Open%20Terzo%20turno.jpg" group-title="Billiards", English Open: Terzo turno - World Snooker Tour
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1789131772-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ae7a1d2cd69c9cd2264bafeadad70792|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="56840" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Falkenbergs%20FF%20vs%20Osters%20IF.jpg" group-title="LIVE", Falkenbergs FF vs Osters IF - Superettan [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f45-backup/chunks.m3u8?is_vip=false&token=1789148859-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6c63de1c610de7a1489fa0363583fab8|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="56840" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Falkenbergs%20FF%20vs%20Osters%20IF.jpg" group-title="LIVE", Falkenbergs FF vs Osters IF - Superettan [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f45/chunks.m3u8?is_vip=false&token=1789148860-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-809c1cd968eb0407d5901adc8964938b|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="56841" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ostersunds%20FK%20vs%20IK%20brage.jpg" group-title="LIVE", Ostersunds FK vs IK brage - Superettan
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f41-backup/chunks.m3u8?is_vip=false&token=1789148861-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7d0db4eda4efb3e36f2059427e8b390d|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="56843" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Varbergs%20BoIS%20FC%20vs%20IFK%20Norrkoping.jpg" group-title="LIVE", Varbergs BoIS FC vs IFK Norrkoping - Superettan [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f3e-backup/chunks.m3u8?is_vip=false&token=1789148862-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6a6ed7be639ba0bc6e862ea2e9bfd21d|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="56843" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Varbergs%20BoIS%20FC%20vs%20IFK%20Norrkoping.jpg" group-title="LIVE", Varbergs BoIS FC vs IFK Norrkoping - Superettan [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f3e/chunks.m3u8?is_vip=false&token=1789148863-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6b643ac3c884ab06f219e8862b28a9df|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="55774" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Astros%20vs%20Philadelphia%20Phillies.jpg" group-title="LIVE", Houston Astros vs Philadelphia Phillies - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1789148864-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-337fde0b1a70ad21594a567adc025464|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="65177" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/English%20Open%20Terzo%20turno.jpg" group-title="LIVE", English Open: Terzo turno - World Snooker Tour
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1789148865-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b2270e8bff280cede5e7e69f6bca5024|Referer=https://iframe.rumsport8.live/
 
