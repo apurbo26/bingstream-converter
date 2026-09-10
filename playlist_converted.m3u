@@ -3,76 +3,22 @@
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 2:17:23 AM 11-09-2026
-#EXTINF:-1 tvg-id="56981" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20M%C3%BCnchen%20vs%20BodoGlimt.jpg" group-title="LIVE", Bayern München vs Bodo/Glimt - UEFA Champions League [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/33006/720p/chunks.m3u8?is_vip=false&token=1789157844-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-58c28f93624a4a96d74ac27110e5b285|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="56981" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20M%C3%BCnchen%20vs%20BodoGlimt.jpg" group-title="LIVE", Bayern München vs Bodo/Glimt - UEFA Champions League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d76f0-hd/chunks.m3u8?is_vip=false&token=1789157844-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d20b776b8c093abb20fc8d4518a844a8|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="56981" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20M%C3%BCnchen%20vs%20BodoGlimt.jpg" group-title="LIVE", Bayern München vs Bodo/Glimt - UEFA Champions League [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d76f0-fhd/chunks.m3u8?is_vip=false&token=1789157845-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3dec8bf4aca5fedcf044c5e8202e340a|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="56981" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20M%C3%BCnchen%20vs%20BodoGlimt.jpg" group-title="LIVE", Bayern München vs Bodo/Glimt - UEFA Champions League [Server 4]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d76f0-backup/chunks.m3u8?is_vip=false&token=1789157846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4351b067053df4ebcc1b0e92b32b4654|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="56981" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20M%C3%BCnchen%20vs%20BodoGlimt.jpg" group-title="LIVE", Bayern München vs Bodo/Glimt - UEFA Champions League [Server 5]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d76f0/chunks.m3u8?is_vip=false&token=1789157847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-85ba001c69f2aa3947e13766dd9dd767|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="57082" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Como%20vs%20RB%20Leipzig.jpg" group-title="LIVE", Como vs RB Leipzig - UEFA Champions League [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/238/720p/chunks.m3u8?is_vip=false&token=1789157848-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f6c0bce44887f955eff0c6ee735780db|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="57082" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Como%20vs%20RB%20Leipzig.jpg" group-title="LIVE", Como vs RB Leipzig - UEFA Champions League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d76e0-hd/chunks.m3u8?is_vip=false&token=1789157848-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e9a86b6b921bc6a3405608dd7bfdfbca|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="57082" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Como%20vs%20RB%20Leipzig.jpg" group-title="LIVE", Como vs RB Leipzig - UEFA Champions League [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d76e0-backup/chunks.m3u8?is_vip=false&token=1789157849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f8d5c079f797a2e8f3b61bc88d8a6b6|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="57082" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Como%20vs%20RB%20Leipzig.jpg" group-title="LIVE", Como vs RB Leipzig - UEFA Champions League [Server 4]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d76e0/chunks.m3u8?is_vip=false&token=1789157850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bd21e905514bc7af64f0e28c8c09f0d3|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="56951" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20vs%20Sabah%20FA.jpg" group-title="LIVE", Manchester United vs Sabah FA - UEFA Champions League [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/325/720p/chunks.m3u8?is_vip=false&token=1789157851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1dbd048e9f08fa26ca2b49c173dc6989|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="56951" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20vs%20Sabah%20FA.jpg" group-title="LIVE", Manchester United vs Sabah FA - UEFA Champions League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2daf2fa6c299ee129e4-hd/chunks.m3u8?is_vip=false&token=1789157851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d3b2467d6a95901bf62b0aac06b29da2|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="56951" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20vs%20Sabah%20FA.jpg" group-title="LIVE", Manchester United vs Sabah FA - UEFA Champions League [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2daf2fa6c299ee129e4-backup/chunks.m3u8?is_vip=false&token=1789157852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b0403e56416612d2fb70cf9f0227f16c|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="56951" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20vs%20Sabah%20FA.jpg" group-title="LIVE", Manchester United vs Sabah FA - UEFA Champions League [Server 4]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2daf2fa6c299ee129e4/chunks.m3u8?is_vip=false&token=1789157852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-94a27e909ba3ce0165b1c5710ba043f3|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="57054" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slavia%20Praha%20vs%20Lens.jpg" group-title="LIVE", Slavia Praha vs Lens - UEFA Champions League [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2daf2fa6c299ee129c2-backup/chunks.m3u8?is_vip=false&token=1789157853-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2c55cad65620a9246710277f20dccd9c|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="57054" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slavia%20Praha%20vs%20Lens.jpg" group-title="LIVE", Slavia Praha vs Lens - UEFA Champions League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2daf2fa6c299ee129c2/chunks.m3u8?is_vip=false&token=1789157854-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-edef71f01375e902998829ed67ff802f|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="55774" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Astros%20vs%20Philadelphia%20Phillies.jpg" group-title="LIVE", Houston Astros vs Philadelphia Phillies - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1789157855-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1bac9e73639b8479c2ba1eaf62bc852f|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="65177" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/English%20Open%20Terzo%20turno.jpg" group-title="LIVE", English Open: Terzo turno - World Snooker Tour
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1789157856-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9b3009ffce4330eb11eca328f5f6e4f9|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="56846" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Stevenage%20vs%20Luton.jpg" group-title="LIVE", Stevenage vs Luton - League One [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969a88-fhd/chunks.m3u8?is_vip=false&token=1789157857-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-04eddbdb985f4b21eae0463e3532dbc9|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="56846" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Stevenage%20vs%20Luton.jpg" group-title="LIVE", Stevenage vs Luton - League One [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969a88-backup/chunks.m3u8?is_vip=false&token=1789157858-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4f1908cfa6aa8f2fb585b39ab6241a7c|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="56846" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Stevenage%20vs%20Luton.jpg" group-title="LIVE", Stevenage vs Luton - League One [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969a88/chunks.m3u8?is_vip=false&token=1789157858-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2bdc41157f5efd62d6f3b5031eea3674|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="56847" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Estrela%20vs%20SC%20Braga.jpg" group-title="LIVE", Estrela vs SC Braga - Primeira Liga [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf8000f680c3c906854-backup/chunks.m3u8?is_vip=false&token=1789157859-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-173c437de6b13879365b675c9b4664c1|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="56847" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Estrela%20vs%20SC%20Braga.jpg" group-title="LIVE", Estrela vs SC Braga - Primeira Liga [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf8000f680c3c906854/chunks.m3u8?is_vip=false&token=1789157860-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0ccd259b3984453f7bf7a0c8199eb996|Referer=https://iframe.rumsport8.live/
-
+#last update time: 4:47:29 AM 11-09-2026
 #EXTINF:-1 tvg-id="65176" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789157861-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-42bedd09c1e708f0908e495cb65a30c1|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789166850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-95006e4b12f778c774a9776b2b727dfc|Referer=https://iframe.rumsport8.live/
 
 #EXTINF:-1 tvg-id="55775" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas%20Rangers%20vs%20Seattle%20Mariners.jpg" group-title="LIVE", Texas Rangers vs Seattle Mariners - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1789157862-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d202907184fe075f611b5e6036f57b39|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1789166852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-393d094bdc18bd0c5025244842ab3747|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="56850" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vila%20Nova%20vs%20Goias.jpg" group-title="LIVE", Vila Nova vs Goias - Serie B [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969a8a-backup/chunks.m3u8?is_vip=false&token=1789166853-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f6b24fffc2d784f45455f5e09454bab6|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="56850" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vila%20Nova%20vs%20Goias.jpg" group-title="LIVE", Vila Nova vs Goias - Serie B [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969a8a/chunks.m3u8?is_vip=false&token=1789166854-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6b3f8c1a4791b8224a74e5e3be3f8a47|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="55729" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tridents%20vs%20Nevis%20Patriots.jpg" group-title="LIVE", Tridents vs Nevis Patriots - CPL
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789166856-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-49fed99983a9e7af422ca0eded05f4a0|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="55776" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colorado%20Rockies%20vs%20New%20York%20Yankees.jpg" group-title="Baseball", Colorado Rockies vs New York Yankees - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1789166860-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e92f3505b297317abb36005a9edf40c0|Referer=https://iframe.rumsport8.live/
 
