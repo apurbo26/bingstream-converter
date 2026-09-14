@@ -3,61 +3,7 @@
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 8:02:27 AM 14-09-2026
-#EXTINF:-1 tvg-id="61714" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tridents%20vs%20Warriors.jpg" group-title="LIVE", Tridents vs Warriors - CPL
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789437747-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3b375e4384ca802532cc207299620a16|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="61727" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dallas%20Cowboys%20vs%20New%20York%20Giants.jpg" group-title="LIVE", Dallas Cowboys vs New York Giants - NFL
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52469/720p/chunks.m3u8?is_vip=false&token=1789437749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-df26a63c75a6e2a109d2322917cbf3f2|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="59571" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Huracan%20vs%20Racing%20Club.jpg" group-title="LIVE", Huracan vs Racing Club - Liga Profesional Argentina [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db00c-backup/chunks.m3u8?is_vip=false&token=1789437750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9503136c96fc29b78def3d23ef539d0b|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="59571" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Huracan%20vs%20Racing%20Club.jpg" group-title="LIVE", Huracan vs Racing Club - Liga Profesional Argentina [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db00c/chunks.m3u8?is_vip=false&token=1789437751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2499e536fd39c5685575de7c090fb634|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="60270" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austin%20II%20vs%20Colorado%20Rapids%20II.jpg" group-title="LIVE", Austin II vs Colorado Rapids II - MLS Next Pro [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa2e94af2fa6c299e8c532b-backup/chunks.m3u8?is_vip=false&token=1789437752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5ac62d9a3ad84ac7188ac988dc735380|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="60270" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austin%20II%20vs%20Colorado%20Rapids%20II.jpg" group-title="LIVE", Austin II vs Colorado Rapids II - MLS Next Pro [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa2e94af2fa6c299e8c532b/chunks.m3u8?is_vip=false&token=1789437753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-263cf3d2e1505731337f65e945d5b181|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="60271" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Texas%20vs%20Houston%20Dynamo%20FC%20II.jpg" group-title="LIVE", North Texas vs Houston Dynamo FC II - MLS Next Pro [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa2e94af2fa6c299e8c532a-backup/chunks.m3u8?is_vip=false&token=1789437754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-49e76c4bc838662c2a3b13400fe255f3|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="60271" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Texas%20vs%20Houston%20Dynamo%20FC%20II.jpg" group-title="LIVE", North Texas vs Houston Dynamo FC II - MLS Next Pro [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa2e94af2fa6c299e8c532a/chunks.m3u8?is_vip=false&token=1789437755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c48666aca4ca24ee461cc62b6c18d326|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="46227" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20vs%20Philadelphia%20Union.jpg" group-title="LIVE", San Diego vs Philadelphia Union - Major League Soccer [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f5-hd/chunks.m3u8?is_vip=false&token=1789437756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f71ebcd45146755517227ce17db319e3|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="46227" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20vs%20Philadelphia%20Union.jpg" group-title="LIVE", San Diego vs Philadelphia Union - Major League Soccer [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f5-backup/chunks.m3u8?is_vip=false&token=1789437756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1393ed70047368fa52832191cf223952|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="46227" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20vs%20Philadelphia%20Union.jpg" group-title="LIVE", San Diego vs Philadelphia Union - Major League Soccer [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f5/chunks.m3u8?is_vip=false&token=1789437757-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e66da874db7e06522db3d903128db8ee|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="60269" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santos%20Laguna%20vs%20FC%20Juarez.jpg" group-title="LIVE", Santos Laguna vs FC Juarez - Liga MX [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f3-backup/chunks.m3u8?is_vip=false&token=1789437758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1d18802a45d723933f1462b8d136a120|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="60269" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santos%20Laguna%20vs%20FC%20Juarez.jpg" group-title="LIVE", Santos Laguna vs FC Juarez - Liga MX [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f3/chunks.m3u8?is_vip=false&token=1789437759-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-edd0231fdb352e6ee21ef7a4389700fa|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="60272" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Guadalajara%20Chivas%20vs%20U.N.A.M.%20-%20Pumas.jpg" group-title="LIVE", Guadalajara Chivas vs U.N.A.M. - Pumas - Liga MX [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f4-hd/chunks.m3u8?is_vip=false&token=1789437760-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b026192f742c1bf8a771612650bbb551|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="60272" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Guadalajara%20Chivas%20vs%20U.N.A.M.%20-%20Pumas.jpg" group-title="LIVE", Guadalajara Chivas vs U.N.A.M. - Pumas - Liga MX [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f4-backup/chunks.m3u8?is_vip=false&token=1789437761-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f05f93054ebd363e187143c18992c1df|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="60272" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Guadalajara%20Chivas%20vs%20U.N.A.M.%20-%20Pumas.jpg" group-title="LIVE", Guadalajara Chivas vs U.N.A.M. - Pumas - Liga MX [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f4/chunks.m3u8?is_vip=false&token=1789437761-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-23bfd4dd24a4203b902f20db693d3707|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="60273" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ventura%20County%20vs%20Tacoma%20Defiance.jpg" group-title="LIVE", Ventura County vs Tacoma Defiance - MLS Next Pro [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa2e94af2fa6c299e8c532c-backup/chunks.m3u8?is_vip=false&token=1789437762-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e5acda0832b1e0de52ba82a557e88b05|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="60273" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ventura%20County%20vs%20Tacoma%20Defiance.jpg" group-title="LIVE", Ventura County vs Tacoma Defiance - MLS Next Pro [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa2e94af2fa6c299e8c532c/chunks.m3u8?is_vip=false&token=1789437763-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-63d78830a1bf8b188bcd49f30dc8287c|Referer=https://iframe.rumsport8.live/
-
+#last update time: 2:02:26 PM 14-09-2026
 #EXTINF:-1 tvg-id="64116" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Asian%20Championship.jpg" group-title="LIVE", Asian Championship - Asian Tour
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789437764-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-07f703e2ce27bf5c14f8b604e4f44fad|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789459347-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-49216e2e068e1252a38ce101ab765bc3|Referer=https://iframe.rumsport8.live/
 
