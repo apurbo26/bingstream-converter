@@ -3,40 +3,43 @@
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 5:17:25 AM 15-09-2026
-#EXTINF:-1 tvg-id="59566" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Banfield%20vs%20Barracas%20Central.jpg" group-title="LIVE", Banfield vs Barracas Central - Liga Profesional Argentina
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db011/chunks.m3u8?is_vip=false&token=1789514247-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8a3617ccfc559d4e4564079fa1a2a938|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="59569" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20Riestra%20vs%20Lanus.jpg" group-title="LIVE", Deportivo Riestra vs Lanus - Liga Profesional Argentina
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db00e/chunks.m3u8?is_vip=false&token=1789514249-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f5d8a830e55d16a29b67d875b522b2dd|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="60302" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/America%20Mineiro%20vs%20S%C3%A3o%20Bernardo.jpg" group-title="LIVE", America Mineiro vs São Bernardo - Serie B
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351add/chunks.m3u8?is_vip=false&token=1789514251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f4d8b9da6401acb8b7b409ceec64d932|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="60303" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Botafogo%20SP%20vs%20Goias.jpg" group-title="LIVE", Botafogo SP vs Goias - Serie B
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351adc/chunks.m3u8?is_vip=false&token=1789514253-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a2b8fe504edc1b4413b8941c8bdb6d0d|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="64086" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Dodgers%20vs%20Cincinnati%20Reds.jpg" group-title="LIVE", Los Angeles Dodgers vs Cincinnati Reds - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1789514254-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fde259b8b59514656c02a435d2810f74|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="64087" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Cleveland%20Guardians.jpg" group-title="LIVE", Chicago White Sox vs Cleveland Guardians - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1789514256-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6a966cadec2598ef588b935b01cf5171|Referer=https://iframe.rumsport8.live/
-
-#EXTINF:-1 tvg-id="59555" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bahia%20vs%20Remo.jpg" group-title="LIVE", Bahia vs Remo - Serie A
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db01d/chunks.m3u8?is_vip=false&token=1789514258-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1f6b1207d1588eb88191aa0ecbbfab65|Referer=https://iframe.rumsport8.live/
-
+#last update time: 8:17:21 AM 15-09-2026
 #EXTINF:-1 tvg-id="64088" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Detroit%20Tigers%20vs%20Toronto%20Blue%20Jays.jpg" group-title="LIVE", Detroit Tigers vs Toronto Blue Jays - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1789514259-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-01c96a754ef425c01a08d3a3722cdfa6|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1789525041-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-34465b2782447c57d9209dc9083f2c34|Referer=https://iframe.rumsport8.live/
 
 #EXTINF:-1 tvg-id="64089" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baltimore%20Orioles%20vs%20New%20York%20Mets.jpg" group-title="LIVE", Baltimore Orioles vs New York Mets - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1789514260-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-02adeaad06e3d02eea5f0e2c25a32af2|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1789525043-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bb2aef866570e2f816b22160170785de|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="64090" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atlanta%20Braves%20vs%20Chicago%20Cubs.jpg" group-title="Baseball", Atlanta Braves vs Chicago Cubs - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1789514263-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-300ae97b31122ba8c9997a8d08a90e4a|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="64090" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atlanta%20Braves%20vs%20Chicago%20Cubs.jpg" group-title="LIVE", Atlanta Braves vs Chicago Cubs - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1789525044-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-825039d81bba5233ff8e28e41bc1692b|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="64091" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Yankees%20vs%20Minnesota%20Twins.jpg" group-title="Baseball", New York Yankees vs Minnesota Twins - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1789514262-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6484e84bba1cf42382e397c3f3611479|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="64091" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Yankees%20vs%20Minnesota%20Twins.jpg" group-title="LIVE", New York Yankees vs Minnesota Twins - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1789525045-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dbb1aa81de0f3eab045df264717ac1f8|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="64092" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Francisco%20Giants%20vs%20St.%20Louis%20Cardinals.jpg" group-title="Baseball", San Francisco Giants vs St. Louis Cardinals - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1789514263-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4d447d8da1a41c7c3f0101469179e395|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="64092" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Francisco%20Giants%20vs%20St.%20Louis%20Cardinals.jpg" group-title="LIVE", San Francisco Giants vs St. Louis Cardinals - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1789525046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d88337a48fcc1d14a16196a133e62515|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="64085" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Denver%20Broncos%20vs%20Kansas%20City%20Chiefs.jpg" group-title="LIVE", Denver Broncos vs Kansas City Chiefs - NFL
+https://livecdn-tc-iptv.rumsport10.live/live_abr/52470/720p/chunks.m3u8?is_vip=false&token=1789525047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-803526a87362abb3ba8614b0970e023a|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="60876" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Avai%20vs%20Vila%20Nova.jpg" group-title="LIVE", Avai vs Vila Nova - Serie B
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351adf/chunks.m3u8?is_vip=false&token=1789525050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c620f3630b10c517ba64e3ed85e61b45|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="64093" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20Padres%20vs%20Colorado%20Rockies.jpg" group-title="LIVE", San Diego Padres vs Colorado Rockies - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1789525051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6f1b1a0b2e857aca7640bfee6ead9046|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="58787" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leon%20vs%20Atletico%20San%20Luis.jpg" group-title="LIVE", Leon vs Atletico San Luis - Liga MX [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a41c-hd/chunks.m3u8?is_vip=false&token=1789525053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4b77b6d32f37b570a8038d8a11ba08be|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="58787" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leon%20vs%20Atletico%20San%20Luis.jpg" group-title="LIVE", Leon vs Atletico San Luis - Liga MX [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a41c/chunks.m3u8?is_vip=false&token=1789525054-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-45a8a571925a6c2ae479ab1b6fd27201|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="60877" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pachuca%20W%20vs%20Le%C3%B3n%20W.jpg" group-title="LIVE", Pachuca W vs León W - Liga MX Femenil
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ae0/chunks.m3u8?is_vip=false&token=1789525055-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f4ee61beecd27e87971bc7f81e2cec9f|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="64094" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Mariners%20vs%20Los%20Angeles%20Angels.jpg" group-title="LIVE", Seattle Mariners vs Los Angeles Angels - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1789525057-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8f2522f9d6896d2ec538a4d630fde6eb|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="64095" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20Arizona%20Diamondbacks.jpg" group-title="LIVE", Miami Marlins vs Arizona Diamondbacks - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55844/720p/chunks.m3u8?is_vip=false&token=1789525058-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ac97500a10034ef1f35d8e48e9e56dd5|Referer=https://iframe.rumsport8.live/
 
