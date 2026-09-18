@@ -3,22 +3,34 @@
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 1:32:58 PM 18-09-2026
+#last update time: 7:02:25 PM 18-09-2026
 #EXTINF:-1 tvg-id="70929" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wuhan.jpg" group-title="LIVE", Wuhan - FIBA 3x3 U23 World Cup
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274843/720p/chunks.m3u8?is_vip=false&token=1789803179-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5d1dfd39772566f32cc4d4357141970b|Referer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274843/720p/chunks.m3u8?is_vip=false&token=1789822946-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1c5cade433392838a8fd8b05cac10b59|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="70110" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women's%20Cricket%20India%20vs.%20Japan.jpg" group-title="LIVE", Women's Cricket: India vs. Japan - Women's Asian Games 2026
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789803181-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7de42493a36c3a2de1a66a832ccc9d32|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="62949" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nantong%20Zhiyun%20vs%20Guangxi%20Hengchen.jpg" group-title="LIVE", Nantong Zhiyun vs Guangxi Hengchen - League One
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8c637e96e1cc910f388608/chunks.m3u8?is_vip=false&token=1789822948-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-819d1c6840f952cd40e141fc5998c740|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="67354" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philippines%20U23%20vs%20Vietnam%20U23.jpg" group-title="LIVE", Philippines U23 vs Vietnam U23 - Asian Games
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8c637e96e1cc910f3885f9/chunks.m3u8?is_vip=false&token=1789803183-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ea82e5696aa07d56fe139a9dd15d400e|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="62950" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Albirex%20Niigata%20S%20vs%20Hougang%20United.jpg" group-title="LIVE", Albirex Niigata S vs Hougang United - Premier League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8c637e96e1cc910f388609/chunks.m3u8?is_vip=false&token=1789822951-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4ba7355793bfab792180325ba03fd28e|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="65080" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tasman%20vs%20Auckland.jpg" group-title="LIVE", Tasman vs Auckland - NPC
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1789803185-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d4a0cb66e2222e2bf463403c4f48ddf2|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="65076" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20Giro%20d'Abruzzo%2C%20Stage%204.jpg" group-title="LIVE", ES1, Giro d'Abruzzo, Stage 4 - UCI Pro Series
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1789822952-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9b6dcd924143e673755ce86b10bbe5c5|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="65081" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Melbourne%20Kangaroos%20vs%20Hawthorn%20Hawks.jpg" group-title="LIVE", North Melbourne Kangaroos vs Hawthorn Hawks - AFL Womens Premiership
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789803187-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b3bbe004802f11d7815ceba01a0fc111|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="62951" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hangzhou%20Greentown%20vs%20Wuhan%20Three%20Towns.jpg" group-title="LIVE", Hangzhou Greentown vs Wuhan Three Towns - Super League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a565694d06bfc5094e14347/chunks.m3u8?is_vip=false&token=1789822954-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-632f2e0eb77e3f8938b9acff15d74dc3|Referer=https://iframe.rumsport8.live/
 
-#EXTINF:-1 tvg-id="70928" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%204.jpg" group-title="LIVE", Day 4 - FIBA 3x3 U23 World Cup
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789803188-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-853fc1d01c2872bcfb21de9f051748c6|Referer=https://iframe.rumsport8.live/
+#EXTINF:-1 tvg-id="62952" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ayutthaya%20FC%20vs%20Uthai%20Thani.jpg" group-title="LIVE", Ayutthaya FC vs Uthai Thani - Thai League 1
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8c637e96e1cc910f38860a/chunks.m3u8?is_vip=false&token=1789822955-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-740a0450e0236307091d3eb97c15da0d|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="62954" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Persepam%20Madura%20Utd%20vs%20PSIM%20Yogyakarta.jpg" group-title="LIVE", Persepam Madura Utd vs PSIM Yogyakarta - Liga 1
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8c637e96e1cc910f38860b/chunks.m3u8?is_vip=false&token=1789822958-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b644fe05838f68a1e13ccd125ecca58f|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="64929" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Band%C4%B1rmaspor%20vs%20%C3%9Cmraniyespor.jpg" group-title="LIVE", Bandırmaspor vs Ümraniyespor - 1. Lig [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9058128f7c293f9f4febd5-fhd/chunks.m3u8?is_vip=false&token=1789822960-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7dcdfbb6cc9a7dadf7528cb11a082fcb|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="64929" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Band%C4%B1rmaspor%20vs%20%C3%9Cmraniyespor.jpg" group-title="LIVE", Bandırmaspor vs Ümraniyespor - 1. Lig [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9058128f7c293f9f4febd5/chunks.m3u8?is_vip=false&token=1789822961-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-81b4e293b661f64309fd657b89e057dd|Referer=https://iframe.rumsport8.live/
+
+#EXTINF:-1 tvg-id="62953" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Birmingham%20City%20U21%20vs%20Arsenal%20U21.jpg" group-title="LIVE", Birmingham City U21 vs Arsenal U21 - Premier League 2 Division One
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8c637e96e1cc910f38860c/chunks.m3u8?is_vip=false&token=1789822964-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8900ebc6264e919282b2e2c7e5273803|Referer=https://iframe.rumsport8.live/
 
