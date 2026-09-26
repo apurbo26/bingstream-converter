@@ -3,52 +3,49 @@
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 8:17:25 AM 26-09-2026
-#EXTINF:-1 tvg-id="79205" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee%20Brewers%20vs%20St.Louis%20Cardinals.jpg" group-title="LIVE", Milwaukee Brewers vs St.Louis Cardinals - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55846/720p/chunks.m3u8?is_vip=false&token=1790475448-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-97ccb5998b85ae791da4e92b097ac618
+#last update time: 2:02:28 PM 26-09-2026
+#EXTINF:-1 tvg-id="83902" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Seoul.jpg" group-title="LIVE", WTA Seoul - WTA Seoul
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1790496150-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-19449146e5a5711e26972f80ca577d90
 
-#EXTINF:-1 tvg-id="79204" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas%20City%20Royals%20vs%20Cleveland%20Guardians.jpg" group-title="LIVE", Kansas City Royals vs Cleveland Guardians - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55844/720p/chunks.m3u8?is_vip=false&token=1790475451-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6299581cf4a77e3cf3666a04d3fa7b08
+#EXTINF:-1 tvg-id="68339" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Harbour%20vs%20Otago.jpg" group-title="LIVE", North Harbour vs Otago - NPC
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1790496153-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c7a12c350eb9297f30535a650c461062
 
-#EXTINF:-1 tvg-id="79203" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Colorado%20Rockies.jpg" group-title="LIVE", Chicago White Sox vs Colorado Rockies - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=1790475453-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c4367b046d44ac5a7332c3d5969d657f
+#EXTINF:-1 tvg-id="72917" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baku%2C%20AzerbaijanRace%202.jpg" group-title="LIVE", Baku, AzerbaijanRace 2 - FIA Formula 2 Championship Feature Race
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1790496156-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-78ab42592b91628ac4b0e4a498b27336
 
-#EXTINF:-1 tvg-id="80043" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Wild%20vs%20Dallas%20Stars.jpg" group-title="LIVE", Minnesota Wild vs Dallas Stars - NHL
-https://livecdn-tc-iptv.rumsport10.live/live_abr/262819/720p/chunks.m3u8?is_vip=false&token=1790475456-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ddd5f887513ea6d82b4ed1a74d89eea3
+#EXTINF:-1 tvg-id="83904" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg" group-title="LIVE", WTA Singapore - WTA Singapore
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1790496159-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c71ed21e486d6a8009a80eecb9cbb84e
 
-#EXTINF:-1 tvg-id="79206" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20Texas%20Rangers.jpg" group-title="LIVE", Minnesota Twins vs Texas Rangers - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55847/720p/chunks.m3u8?is_vip=false&token=1790475459-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3b4c68a76dd5773882ea8e50798d655a
+#EXTINF:-1 tvg-id="83905" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Chengdu.jpg" group-title="LIVE", ATP Chengdu - ATP Chengdu
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112612/720p/chunks.m3u8?is_vip=false&token=1790496167-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-14e0da5ab98908bc0802c3798859d70e
 
-#EXTINF:-1 tvg-id="66297" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Reign%20FC%20W%20vs%20Boston%20Legacy%20W.jpg" group-title="LIVE", Seattle Reign FC W vs Boston Legacy W - NWSL Women
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9e2/chunks.m3u8?is_vip=false&token=1790475464-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6acb9cd6ea8e22423a5215ced65e328f
+#EXTINF:-1 tvg-id="66305" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oita%20Trinita%20vs%20Fujieda%20MYFC.jpg" group-title="LIVE", Oita Trinita vs Fujieda MYFC - J2 League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2ea02/chunks.m3u8?is_vip=false&token=1790496170-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-35cd92c6ef6c27c2eddd03530af2002d
 
-#EXTINF:-1 tvg-id="69939" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Honduras%20vs%20Suriname.jpg" group-title="LIVE", Honduras vs Suriname - CONCACAF Nations League
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a6e/chunks.m3u8?is_vip=false&token=1790475467-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-026fdf194048023d91cfbe37e8312813
+#EXTINF:-1 tvg-id="66306" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Iwaki%20vs%20Vegalta%20Sendai.jpg" group-title="LIVE", Iwaki vs Vegalta Sendai - J2 League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2ea01/chunks.m3u8?is_vip=false&token=1790496173-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9fab893241d6907b2ad1ab4e0aba52ff
 
-#EXTINF:-1 tvg-id="66302" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cruz%20Azul%20W%20vs%20Guadalajara%20W.jpg" group-title="LIVE", Cruz Azul W vs Guadalajara W - Liga MX Femenil
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9e7/chunks.m3u8?is_vip=false&token=1790475469-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-142c3790dcc5d6fc978920cea475c742
+#EXTINF:-1 tvg-id="66307" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Montedio%20Yamagata%20vs%20Sagan%20Tosu.jpg" group-title="LIVE", Montedio Yamagata vs Sagan Tosu - J2 League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2ea00/chunks.m3u8?is_vip=false&token=1790496176-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-996bc8e601cafec356f76a2baad7f1a8
 
-#EXTINF:-1 tvg-id="66301" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Correcaminos%20Uat%20vs%20CDS%20Tampico%20Madero.jpg" group-title="LIVE", Correcaminos Uat vs CDS Tampico Madero - Liga de Expansión MX
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9e5/chunks.m3u8?is_vip=false&token=1790475472-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e042652c317f1605d573f53dc6759ff1
+#EXTINF:-1 tvg-id="66308" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Blaublitz%20Akita%20vs%20Albirex%20Niigata.jpg" group-title="LIVE", Blaublitz Akita vs Albirex Niigata - J2 League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9ff/chunks.m3u8?is_vip=false&token=1790496179-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f122e601ed7c3fd7536cfe021c4537bb
 
-#EXTINF:-1 tvg-id="66300" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atlante%20FC%20vs%20Monterrey.jpg" group-title="LIVE", Atlante FC vs Monterrey - Liga MX [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9e3/chunks.m3u8?is_vip=false&token=1790475474-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b54e278f8eaf32bb3bebd88b3d1c8ca0
+#EXTINF:-1 tvg-id="66309" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jubilo%20Iwata%20vs%20Vanraure%20Hachinohe.jpg" group-title="LIVE", Jubilo Iwata vs Vanraure Hachinohe - J2 League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9fe/chunks.m3u8?is_vip=false&token=1790496181-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ae8fc53c8d4cc6b736b7ba2d55593b7c
 
-#EXTINF:-1 tvg-id="66300" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atlante%20FC%20vs%20Monterrey.jpg" group-title="LIVE", Atlante FC vs Monterrey - Liga MX [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9e3-hd/chunks.m3u8?is_vip=false&token=1790475475-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6a8eb75748bf99ce423f9f6d85d3a42f
+#EXTINF:-1 tvg-id="66310" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Omiya%20Ardija%20vs%20Ventforet%20Kofu.jpg" group-title="LIVE", Omiya Ardija vs Ventforet Kofu - J2 League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9fd/chunks.m3u8?is_vip=false&token=1790496184-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d881932251f2c5423ef583b92b40c834
 
-#EXTINF:-1 tvg-id="66299" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cavalry%20FC%20vs%20Supra%20du%20Quebec.jpg" group-title="LIVE", Cavalry FC vs Supra du Quebec - Canadian Premier League
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9e8/chunks.m3u8?is_vip=false&token=1790475478-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e977ae93864905dda753a428d889bfdd
+#EXTINF:-1 tvg-id="66311" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kataller%20Toyama%20vs%20Yokohama%20FC.jpg" group-title="LIVE", Kataller Toyama vs Yokohama FC - J2 League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9fc/chunks.m3u8?is_vip=false&token=1790496187-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1ce553f582b80f0565be71814927bb52
 
-#EXTINF:-1 tvg-id="66298" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/El%20Paso%20Locomotive%20vs%20FC%20Tulsa.jpg" group-title="LIVE", El Paso Locomotive vs FC Tulsa - USL Championship
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9e4/chunks.m3u8?is_vip=false&token=1790475480-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8809fdf6a4b80f5f25d1234cacc3d1b1
+#EXTINF:-1 tvg-id="66312" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokushima%20Vortis%20vs%20Tochigi%20City.jpg" group-title="LIVE", Tokushima Vortis vs Tochigi City - J2 League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9fb/chunks.m3u8?is_vip=false&token=1790496190-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c2cbcb30ac36a2f19ca5d0fcf2b65270
 
-#EXTINF:-1 tvg-id="68324" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/MMA%20MEXICO%209.jpg" group-title="LIVE", MMA MEXICO 9 - MMA
-https://livecdn-tc-iptv.rumsport10.live/live_abr/53767/720p/chunks.m3u8?is_vip=false&token=1790475483-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cf558222280e3b96e8951b532dfd595d
+#EXTINF:-1 tvg-id="66313" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tegevajaro%20Miyazaki%20vs%20Consadole%20Sapporo.jpg" group-title="LIVE", Tegevajaro Miyazaki vs Consadole Sapporo - J2 League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9fa/chunks.m3u8?is_vip=false&token=1790496193-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-86fc1c3688726ed65c3e5be7f87930b0
 
-#EXTINF:-1 tvg-id="68337" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Northland%20vs%20Counties%20Manukau.jpg" group-title="LIVE", Northland vs Counties Manukau - NPC
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1790475485-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-09f7db65fa7e60caf03edf9a516b9822
-
-#EXTINF:-1 tvg-id="68325" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/TUFF-N-UFF%20157.jpg" group-title="LIVE", TUFF-N-UFF 157 - MMA
-https://livecdn-tc-iptv.rumsport10.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=1790475488-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7c323396d3700ecdb00023a2b3bb93bd
+#EXTINF:-1 tvg-id="66314" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Imabari%20vs%20Shonan%20Bellmare.jpg" group-title="LIVE", Imabari vs Shonan Bellmare - J2 League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9f9/chunks.m3u8?is_vip=false&token=1790496196-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b6b3d3d4d4149af8898be8a0faa469d8
 
