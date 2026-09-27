@@ -3,112 +3,25 @@
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 8:17:24 AM 27-09-2026
-#EXTINF:-1 tvg-id="79221" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia%20Phillies%20vs%20Tampa%20Bay%20Rays.jpg" group-title="LIVE", Philadelphia Phillies vs Tampa Bay Rays - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55844/720p/chunks.m3u8?is_vip=false&token=1790561846-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c812f3031e71826cf739aecafedd5b9c
+#last update time: 2:32:37 PM 27-09-2026
+#EXTINF:-1 tvg-id="85157" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Chengdu.jpg" group-title="LIVE", ATP Chengdu - ATP Chengdu
+https://livecdn-tc-iptv.rumsport10.live/live_abr/510512/720p/chunks.m3u8?is_vip=false&token=1790498564-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-289460a8eda692052a150c42e2dcf9d4
 
-#EXTINF:-1 tvg-id="80058" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vegas%20Golden%20Knights%20vs%20San%20Jose%20Sharks.jpg" group-title="LIVE", Vegas Golden Knights vs San Jose Sharks - NHL
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52449/720p/chunks.m3u8?is_vip=false&token=1790561848-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-789f1a8768b828f371727675ef3d4145
+#EXTINF:-1 tvg-id="85159" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Hangzhou.jpg" group-title="LIVE", ATP Hangzhou - ATP Hangzhou
+https://livecdn-tc-iptv.rumsport10.live/live_abr/510515/720p/chunks.m3u8?is_vip=false&token=1790497654-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4a5ea4190b5baad12dfaf39a7290f50f
 
-#EXTINF:-1 tvg-id="70038" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ROSAS%20JR%20vs%20BARCELOS.jpg" group-title="LIVE", ROSAS JR vs BARCELOS - UFC FIGHT NIGHT
-https://livecdn-tc-iptv.rumsport10.live/live_abr/262820/720p/chunks.m3u8?is_vip=false&token=1790561850-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3e3ec2e906634d4b4c469d367fd0d99d
+#EXTINF:-1 tvg-id="67380" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/S%C3%BCdburgenland%20W%20vs%20Rheindorf%20Altach%20W.jpg" group-title="LIVE", Südburgenland W vs Rheindorf Altach W - Frauenliga
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba746/chunks.m3u8?is_vip=false&token=1790497666-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-70168d714f99736cd9c90742da7f550e
 
-#EXTINF:-1 tvg-id="46249" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Sounders%20vs%20Minnesota%20United%20FC.jpg" group-title="LIVE", Seattle Sounders vs Minnesota United FC - Major League Soccer [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4a4-hd/chunks.m3u8?is_vip=false&token=1790561858-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ecbbda74f55284c2cd8562c3df0d07eb
+#EXTINF:-1 tvg-id="73734" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Persela%20Lamongan%20vs%20PSBS%20Biak%20Numfor.jpg" group-title="LIVE", Persela Lamongan vs PSBS Biak Numfor - Liga 2
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9c0b84bcbb3676e9f595e4/chunks.m3u8?is_vip=false&token=1790498601-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0eaa88d5945873491bb7739a72f7e098
 
-#EXTINF:-1 tvg-id="46249" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Sounders%20vs%20Minnesota%20United%20FC.jpg" group-title="LIVE", Seattle Sounders vs Minnesota United FC - Major League Soccer [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4a4/chunks.m3u8?is_vip=false&token=1790561858-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3d74693bf7b5937045411269980ee2fc
+#EXTINF:-1 tvg-id="73736" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RANS%20Nusantara%20vs%20Deltras.jpg" group-title="LIVE", RANS Nusantara vs Deltras - Liga 2
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9c0b84bcbb3676e9f595e5/chunks.m3u8?is_vip=false&token=1790498613-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-64b51a145a7e742fbe3305a5995352c5
 
-#EXTINF:-1 tvg-id="67370" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Corpus%20Christi%20vs%20Boise.jpg" group-title="LIVE", Corpus Christi vs Boise - USL League One
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e480/chunks.m3u8?is_vip=false&token=1790561861-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e425194cfb7bbc50204f8f91b87103a1
+#EXTINF:-1 tvg-id="70015" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/India%20vs%20West%20Indies.jpg" group-title="LIVE", India vs West Indies - 1st ODI
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790498626-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-60951da20b7f36618a134fe511e6212c
 
-#EXTINF:-1 tvg-id="67369" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Antonio%20vs%20Tampa%20Bay%20Rowdies.jpg" group-title="LIVE", San Antonio vs Tampa Bay Rowdies - USL Championship
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4a9/chunks.m3u8?is_vip=false&token=1790561864-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-357baf67b38060efbe8c93c0cea4124f
-
-#EXTINF:-1 tvg-id="46250" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Dallas%20vs%20Los%20Angeles%20FC.jpg" group-title="LIVE", FC Dallas vs Los Angeles FC - Major League Soccer [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4a7/chunks.m3u8?is_vip=false&token=1790561867-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2c1a1ee98cb728106b3d622d4cacb294
-
-#EXTINF:-1 tvg-id="46250" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Dallas%20vs%20Los%20Angeles%20FC.jpg" group-title="LIVE", FC Dallas vs Los Angeles FC - Major League Soccer [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4a7-hd/chunks.m3u8?is_vip=false&token=1790561867-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cd5fa51503c50ca8f337bcf4f5bda246
-
-#EXTINF:-1 tvg-id="46252" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nashville%20SC%20vs%20Toronto%20FC.jpg" group-title="LIVE", Nashville SC vs Toronto FC - Major League Soccer [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4a5-hd/chunks.m3u8?is_vip=false&token=1790561869-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-115cb56ca8955c3d7ece7f558d20bb9c
-
-#EXTINF:-1 tvg-id="46252" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nashville%20SC%20vs%20Toronto%20FC.jpg" group-title="LIVE", Nashville SC vs Toronto FC - Major League Soccer [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4a5/chunks.m3u8?is_vip=false&token=1790561870-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e871cf28b8b4ebb1e3238e01f65a4afd
-
-#EXTINF:-1 tvg-id="46253" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austin%20vs%20San%20Diego.jpg" group-title="LIVE", Austin vs San Diego - Major League Soccer [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4a8-hd/chunks.m3u8?is_vip=false&token=1790561872-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7dd89f73d75965271b8ed57676b713aa
-
-#EXTINF:-1 tvg-id="46253" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austin%20vs%20San%20Diego.jpg" group-title="LIVE", Austin vs San Diego - Major League Soccer [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4a8/chunks.m3u8?is_vip=false&token=1790561873-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a8d0a24ccde3d8b74ca69a8199c12a7d
-
-#EXTINF:-1 tvg-id="46251" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Dynamo%20vs%20Sporting%20Kansas%20City.jpg" group-title="LIVE", Houston Dynamo vs Sporting Kansas City - Major League Soccer [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4a6/chunks.m3u8?is_vip=false&token=1790561876-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a7ff3c2c250b001d83c43277460d6bb6
-
-#EXTINF:-1 tvg-id="46251" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Dynamo%20vs%20Sporting%20Kansas%20City.jpg" group-title="LIVE", Houston Dynamo vs Sporting Kansas City - Major League Soccer [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4a6-hd/chunks.m3u8?is_vip=false&token=1790561876-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e7a7ed33b7246c2b11a21ae7c6f1d725
-
-#EXTINF:-1 tvg-id="67371" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portland%20Thorns%20W%20vs%20Houston%20Dash%20W.jpg" group-title="LIVE", Portland Thorns W vs Houston Dash W - NWSL Women
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4aa/chunks.m3u8?is_vip=false&token=1790561879-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-357acdbfe242d450d8832ab4e3a5bced
-
-#EXTINF:-1 tvg-id="67372" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20Mexico%20United%20vs%20Sacramento%20Republic.jpg" group-title="LIVE", New Mexico United vs Sacramento Republic - USL Championship
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4ad/chunks.m3u8?is_vip=false&token=1790561881-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0a6ce1ced670b374b6e588e3f6bc5753
-
-#EXTINF:-1 tvg-id="67375" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dorados%20vs%20Durango.jpg" group-title="LIVE", Dorados vs Durango - Liga de Expansión MX [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4ae/chunks.m3u8?is_vip=false&token=1790561885-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6889f04ba9e048680ec252dd185cd761
-
-#EXTINF:-1 tvg-id="67375" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dorados%20vs%20Durango.jpg" group-title="LIVE", Dorados vs Durango - Liga de Expansión MX [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4ae-hd/chunks.m3u8?is_vip=false&token=1790561885-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-697f8cd52c302f469641c6a8ff91fa97
-
-#EXTINF:-1 tvg-id="66575" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mexico%20vs%20Colombia.jpg" group-title="LIVE", Mexico vs Colombia - Friendlies
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab40cc0018287f1ce9439dc/chunks.m3u8?is_vip=false&token=1790561888-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-67cef8a2ee25ac88484b249149c4c993
-
-#EXTINF:-1 tvg-id="67376" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ju%C3%A1rez%20W%20vs%20Tijuana%20W.jpg" group-title="LIVE", Juárez W vs Tijuana W - Liga MX Femenil [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4b0/chunks.m3u8?is_vip=false&token=1790561890-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c0d7a9949b4b0b32a67a3fcc6de66a5d
-
-#EXTINF:-1 tvg-id="67376" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ju%C3%A1rez%20W%20vs%20Tijuana%20W.jpg" group-title="LIVE", Juárez W vs Tijuana W - Liga MX Femenil [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4b0-hd/chunks.m3u8?is_vip=false&token=1790561891-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ce33b5dfe9ca629438896827ae427821
-
-#EXTINF:-1 tvg-id="70042" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Race%206%20Hours%20of%20Fuji.jpg" group-title="LIVE", Race: 6 Hours of Fuji - WEC
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1790561894-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1910790d660cec0f7975a921171d7cba
-
-#EXTINF:-1 tvg-id="46254" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Salt%20Lake%20vs%20New%20England%20Revolution.jpg" group-title="LIVE", Real Salt Lake vs New England Revolution - Major League Soccer [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4b1-hd/chunks.m3u8?is_vip=false&token=1790561897-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c7db509bc3a941644c0763ae1385e81b
-
-#EXTINF:-1 tvg-id="46254" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Salt%20Lake%20vs%20New%20England%20Revolution.jpg" group-title="LIVE", Real Salt Lake vs New England Revolution - Major League Soccer [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4b1/chunks.m3u8?is_vip=false&token=1790561898-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b0e5094ca633f03a601c644976b5570d
-
-#EXTINF:-1 tvg-id="70047" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wellington%20vs%20Waikato.jpg" group-title="LIVE", Wellington vs Waikato - NPC
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1790561900-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fdda760e6dbd054b2e32e5b7029826e7
-
-#EXTINF:-1 tvg-id="69945" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sint%20Maarten%20vs%20Belize.jpg" group-title="LIVE", Sint Maarten vs Belize - CONCACAF Nations League
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fd5acdaf8f9c59caa7ec9/chunks.m3u8?is_vip=false&token=1790561903-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3fbd8577b99789b0fbde3b2d1ce7df3f
-
-#EXTINF:-1 tvg-id="67379" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Orange%20County%20SC%20vs%20Pittsburgh%20Riverhounds.jpg" group-title="LIVE", Orange County SC vs Pittsburgh Riverhounds - USL Championship
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4b3/chunks.m3u8?is_vip=false&token=1790561905-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8e39faec16d10e4a425d1e196e841ec5
-
-#EXTINF:-1 tvg-id="67378" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oakland%20Roots%20vs%20Phoenix%20Rising.jpg" group-title="LIVE", Oakland Roots vs Phoenix Rising - USL Championship
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4b5/chunks.m3u8?is_vip=false&token=1790561907-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-750d70f5c36713ac8a5b593d7eb18cf2
-
-#EXTINF:-1 tvg-id="67377" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monterey%20Bay%20vs%20Lexington.jpg" group-title="LIVE", Monterey Bay vs Lexington - USL Championship
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4b4/chunks.m3u8?is_vip=false&token=1790561910-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5d5626aab58e639691177a0e8ed036f6
-
-#EXTINF:-1 tvg-id="46255" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Jose%20Earthquakes%20vs%20Portland%20Timbers.jpg" group-title="LIVE", San Jose Earthquakes vs Portland Timbers - Major League Soccer [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4b7-hd/chunks.m3u8?is_vip=false&token=1790561913-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-99ed06b32239eae6f0194a028fed4932
-
-#EXTINF:-1 tvg-id="46255" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Jose%20Earthquakes%20vs%20Portland%20Timbers.jpg" group-title="LIVE", San Jose Earthquakes vs Portland Timbers - Major League Soccer [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4b7/chunks.m3u8?is_vip=false&token=1790561913-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f0d8b487dcb28286301d6cb8781392f2
-
-#EXTINF:-1 tvg-id="46256" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vancouver%20Whitecaps%20vs%20DC%20United.jpg" group-title="LIVE", Vancouver Whitecaps vs DC United - Major League Soccer [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4b6-hd/chunks.m3u8?is_vip=false&token=1790561916-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e07573070087f988c7f432a64b5af433
-
-#EXTINF:-1 tvg-id="46256" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vancouver%20Whitecaps%20vs%20DC%20United.jpg" group-title="LIVE", Vancouver Whitecaps vs DC United - Major League Soccer [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4b6/chunks.m3u8?is_vip=false&token=1790561916-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d8368a8680702c4f758e6a4602301ae9
-
-#EXTINF:-1 tvg-id="46257" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Galaxy%20vs%20Colorado%20Rapids.jpg" group-title="LIVE", Los Angeles Galaxy vs Colorado Rapids - Major League Soccer [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4b8-hd/chunks.m3u8?is_vip=false&token=1790561919-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7eb7942dbcc261a8de3acb9ce6466c0c
-
-#EXTINF:-1 tvg-id="46257" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Galaxy%20vs%20Colorado%20Rapids.jpg" group-title="LIVE", Los Angeles Galaxy vs Colorado Rapids - Major League Soccer [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e4b8/chunks.m3u8?is_vip=false&token=1790561920-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a6db361181690989065c6b67a7e7ac9d
+#EXTINF:-1 tvg-id="70051" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Australia%20vs%20South%20Africa.jpg" group-title="LIVE", Australia vs South Africa - Men's International
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1790498638-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7a752794e7ce4e8b181c138fbca608eb
 
